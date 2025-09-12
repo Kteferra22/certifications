@@ -15,5 +15,5 @@ This page showcases my certifications from front-end to back-end.
 - Coursera – Intro to HTML, CSS & JavaScript  
 
 ---
-
-🔗 View them online here: [Certifications Page](./index.html)
+## 🚀 Live Demo
+👉 [Click here to view my certifications](https://your-username.github.io/your-repo-name/)
