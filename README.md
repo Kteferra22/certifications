@@ -16,4 +16,4 @@ This page showcases my certifications from front-end to back-end.
 
 ---
 ## 🚀 Live Demo
-👉 [Click here to view my certifications](https://your-username.github.io/your-repo-name/)
+👉 [Click here to view my certifications](https://your-username.github.io/certifications/)
