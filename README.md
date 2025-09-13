@@ -15,5 +15,3 @@ This page showcases my certifications from front-end to back-end.
 - Coursera – Intro to HTML, CSS & JavaScript  
 
 ---
-## 🚀 Live Demo
-👉 [Click here to view my certifications](https://Kteferra22.github.io/certifications/)
